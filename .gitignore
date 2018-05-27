@@ -1,0 +1,13 @@
+# ignore the results of running code 'results/'
+results/*/*
+results/*.csv
+!/results/exp1/results.csv
+
+*.pyc
+
+*.hdf5
+*.ipynb_checkpoints
+*.p
+*.h5
+*.HDF5
+__pycache__
